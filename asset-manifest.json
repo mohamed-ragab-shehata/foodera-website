@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/foodera-website/static/css/main.7cb5b071.css",
+    "main.js": "/foodera-website/static/js/main.a79bd818.js",
+    "static/media/17-Aisha Rahman.jpg": "/foodera-website/static/media/17-Aisha Rahman.28b2f680dd2e2ead2796.jpg",
+    "static/media/HeaderImage.png": "/foodera-website/static/media/HeaderImage.e9164f9c233168e73b69.png",
+    "static/media/paralexImage 02.png": "/foodera-website/static/media/paralexImage 02.0107f48ae0b42b0ae892.png",
+    "static/media/20-Jack Robinson.jpg": "/foodera-website/static/media/20-Jack Robinson.2405abeb1d5df0acedb9.jpg",
+    "static/media/ingredients.png": "/foodera-website/static/media/ingredients.b810024430d376b6bd6d.png",
+    "static/media/mainImage.png": "/foodera-website/static/media/mainImage.91adf8dc0779a423e014.png",
+    "static/media/03.jpg": "/foodera-website/static/media/03.0df4d0d0dda2d436bffc.jpg",
+    "static/media/01.jpg": "/foodera-website/static/media/01.1defe43a880022701c8d.jpg",
+    "static/media/07-Emily Parker.jpg": "/foodera-website/static/media/07-Emily Parker.24b353de64f5e9388828.jpg",
+    "static/media/06-Micheal Johnson.jpg": "/foodera-website/static/media/06-Micheal Johnson.68054324c73f322a847b.jpg",
+    "static/media/02.jpg": "/foodera-website/static/media/02.a567a9db1482b99c0fab.jpg",
+    "static/media/01-Daniel Carter.jpg": "/foodera-website/static/media/01-Daniel Carter.2b30e32f224eac622375.jpg",
+    "static/media/08-Ethan Brooks.jpg": "/foodera-website/static/media/08-Ethan Brooks.c88291688dd5bb2c1d7c.jpg",
+    "static/media/02-Sophia Bennett.jpg": "/foodera-website/static/media/02-Sophia Bennett.f27cba7803d6a25a3086.jpg",
+    "index.html": "/foodera-website/index.html",
+    "main.7cb5b071.css.map": "/foodera-website/static/css/main.7cb5b071.css.map",
+    "main.a79bd818.js.map": "/foodera-website/static/js/main.a79bd818.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb5b071.css",
+    "static/js/main.a79bd818.js"
+  ]
+}
