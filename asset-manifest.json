@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/foodera-website/static/css/main.7cb5b071.css",
-    "main.js": "/foodera-website/static/js/main.a79bd818.js",
+    "main.css": "/foodera-website/static/css/main.b7d95400.css",
+    "main.js": "/foodera-website/static/js/main.e761f871.js",
     "static/media/17-Aisha Rahman.jpg": "/foodera-website/static/media/17-Aisha Rahman.28b2f680dd2e2ead2796.jpg",
     "static/media/HeaderImage.png": "/foodera-website/static/media/HeaderImage.e9164f9c233168e73b69.png",
     "static/media/paralexImage 02.png": "/foodera-website/static/media/paralexImage 02.0107f48ae0b42b0ae892.png",
@@ -17,11 +17,11 @@
     "static/media/08-Ethan Brooks.jpg": "/foodera-website/static/media/08-Ethan Brooks.c88291688dd5bb2c1d7c.jpg",
     "static/media/02-Sophia Bennett.jpg": "/foodera-website/static/media/02-Sophia Bennett.f27cba7803d6a25a3086.jpg",
     "index.html": "/foodera-website/index.html",
-    "main.7cb5b071.css.map": "/foodera-website/static/css/main.7cb5b071.css.map",
-    "main.a79bd818.js.map": "/foodera-website/static/js/main.a79bd818.js.map"
+    "main.b7d95400.css.map": "/foodera-website/static/css/main.b7d95400.css.map",
+    "main.e761f871.js.map": "/foodera-website/static/js/main.e761f871.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cb5b071.css",
-    "static/js/main.a79bd818.js"
+    "static/css/main.b7d95400.css",
+    "static/js/main.e761f871.js"
   ]
 }
